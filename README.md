@@ -5,7 +5,7 @@ Creating a simple HTML-only website with multiple pages.
 ## 📸 Screenshots
 
 ### Screenshot 1
-<img width="3770" height="1717" alt="image" src="https://github.com/user-attachments/assets/c350b079-ccb0-4752-a9a9-3de994a2866c" />
+<img width="3770" height="1717" alt="image" src="https://github.com/user-attachments/assets/c350b079-ccb0-4752-a9a9-3de994a2866c" />{: style="border:2px solid red;" }
 
 
 ### Screenshot 2
