@@ -30,5 +30,5 @@ Creating a simple HTML-only website with multiple pages.
 
 
 ## 🚀 Live Demo
-[Link](https://a4abhishekkmr.github.io/Basic-HTML-Website/)
-[Project URL](https://roadmap.sh/projects/basic-html-website)
+- [Link](https://a4abhishekkmr.github.io/Basic-HTML-Website/)
+- [Project URL](https://roadmap.sh/projects/basic-html-website)
