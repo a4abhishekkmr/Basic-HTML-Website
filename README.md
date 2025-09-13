@@ -5,19 +5,19 @@ Creating a simple HTML-only website with multiple pages.
 ## 📸 Screenshots
 
 ### Screenshot 1
-<img width="600" alt="Screenshot 1" src="https://github.com/user-attachments/assets/c350b079-ccb0-4752-a9a9-3de994a2866c" style="border: 2px solid #333; border-radius: 8px;"/>
+<img width="600" alt="Screenshot 1" src="https://github.com/user-attachments/assets/c350b079-ccb0-4752-a9a9-3de994a2866c"/>
 
-
+---
 ### Screenshot 2
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/42568d6c-defe-41f6-b089-62636a52332e" style="border: 2px solid #333; border-radius: 8px;"/>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/42568d6c-defe-41f6-b089-62636a52332e"/>
 
-
+---
 ### Screenshot 3
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/0a39decf-cbf1-4368-9661-40f5a3f3c993" style="border: 2px solid #333; border-radius: 8px;"/>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/0a39decf-cbf1-4368-9661-40f5a3f3c993"/>
 
-
+---
 ### Screenshot 4
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/e5b43c7d-c387-40db-b6f6-2728b7599a14" style="border: 2px solid #333; border-radius: 8px;"/>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/e5b43c7d-c387-40db-b6f6-2728b7599a14"/>
 
 
 ---
